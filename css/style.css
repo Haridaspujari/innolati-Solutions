@@ -1,0 +1,150 @@
+body, h1, img, ul, li, h2, a, i, h3, h4, div{
+	margin: 0;
+	padding: 0;
+}
+.menu li{
+	display: inline;
+	color: #626262;
+}
+.b{
+	border: 1px solid red;
+
+}
+.menu a{
+	text-decoration: none;
+	color: #626262;
+	margin-left: 100px;
+	font-size: 14px;
+}
+.photodiary h1{
+	font-size: 30px;
+	color:#626262;
+}
+.photodiary h2{
+	font-size: 14px;
+	color: #b4ad9e;
+}
+.photodiary p{
+	color: #626262;
+	font-size: 14px;
+}
+.photodiary a{
+	color: #b4ad9e;
+	margin-left: 20px;
+	font-size: 20px;
+}
+.photodiary span{
+	font-size: 13px;
+	color: #b4ad9e
+}
+.middle-right-content h1{
+	font-size: 24px;
+	color: #626262;
+}
+.middle-right-content p{
+	font-size: 12px;
+	color: #626262;
+}
+.about-icons a{
+	padding: 0;
+	color: #626262;
+}
+.about-icons a{
+	margin-right: 10px;
+	color: #b4ad9e;
+	font-size: 20px;
+}
+.middle-right-content h3{
+	color: #b4ad9e;
+	font-size: 16px;
+}
+.top-post a{
+	text-decoration: none;
+	
+}
+.top-post li a{
+	text-decoration: none;
+	color: #626262;
+}
+.top-post li{
+	font-size: 16px;
+}
+.top-post span{
+	color: #b4ad9e;
+	font-size: 12px;
+	display: inline;
+}
+.middle-section{
+	background: #f5f5f5;
+}
+.middle-section h1{
+	font-size: 16px;
+	color:#b4ad9e;
+}
+.middle-section header{
+	font-size: 20px;
+	margin-top: 20px;
+}
+.middle-section a{
+	color:#626262;
+	text-decoration: none;
+}
+.user h1{
+	color:#b4ad9e;
+	font-size: 14px;
+}
+.user h2{
+	color:#626262;
+	font-size: 16px;
+}
+.user h3{
+	color:#b4ad9e;
+	font-size: 16px;
+}
+.user a{
+	color:#b4ad9e;
+	font-size: 16px;
+	text-decoration: none;
+}
+.user h4{
+	font-size: 35px;
+	border-radius: 100px;
+	background: #cae5e0;
+	padding: 13px 13px ;
+	width: 70px;	
+}
+.user h5{
+	font-size: 35px;
+	border-radius: 100px;
+	background: #ededea;
+	padding: 13px 13px ;
+	width: 70px;
+}
+.user p{
+	color:#626262;
+	font-size: 14px;
+}
+.user textarea{
+	width: 800px;
+	border-radius: 5px;
+	font-size: 14px;
+	border-color: #c8c8c8;
+}
+.user span{
+	color:#b4ad9e;
+}
+.footer{
+	background: #f0f0f0;
+}
+.footer span{
+	color: black;
+	font-size: 14px;
+}
+.footer a{
+	color: #626262;
+	text-decoration: none;
+	font-size: 14px;
+}
+.f-ic{
+	font-size: 18px;
+}
